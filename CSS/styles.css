@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    background-color: #1D1C1C;
+    font-family: 'Montserrat Alternates', 'Montserrat', sans-serif;
+    color: white;
+}
+
+.font-montserrat {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.font-montserrat-alternates {
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.email {
+    width: 40px;
+}
+
+.github {
+    width: 40px;
+}
+
+.linkedin {
+    width: 40px;
+}
+
+
+
+
+
